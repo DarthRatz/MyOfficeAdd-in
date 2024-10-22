@@ -37,9 +37,9 @@
     "zone.js": "0.8.29"
   },
   "devDependencies": {
-    "@babel/core": "7.11.6",
-    "@babel/polyfill": "7.11.5",
-    "@babel/preset-env": "7.11.5",
+    "@babel/core": "7.25.9",
+    "@babel/polyfill": "7.12.1",
+    "@babel/preset-env": "7.25.9",
     "@types/find-process": "1.2.0",
     "@types/office-js": "1.0.157",
     "@types/office-runtime": "1.0.14",

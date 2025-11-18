@@ -51,7 +51,7 @@
     "find-process": "1.4.3",
     "html-loader": "0.5.5",
     "html-webpack-plugin": "4.5.0",
-    "office-addin-cli": "1.0.13",
+    "office-addin-cli": "1.6.5",
     "office-addin-debugging": "3.0.35",
     "office-addin-dev-certs": "1.5.6",
     "office-addin-lint": "1.0.27",
